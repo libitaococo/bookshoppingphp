@@ -1,0 +1,92 @@
+[ 2017-05-31T11:40:14+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `bookshop_pro` WHERE ( pid=listPro ) 
+
+[ 2017-05-31T11:46:18+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `bookshop_pro` WHERE ( pid=listPro ) 
+
+[ 2017-05-31T11:50:45+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `bookshop_pro` WHERE ( pid=listPro ) 
+
+[ 2017-05-31T11:54:03+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `bookshop_pro` WHERE ( pid=listPro ) 
+
+[ 2017-05-31T11:59:06+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `bookshop_pro` WHERE ( pid=listPro ) 
+
+[ 2017-05-31T12:20:06+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/6.html
+ERR: 1051:Unknown table '__PRO__'
+ [ SQL语句 ] : SELECT __PRO__.*,b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_pro.pid=b.cid  WHERE ( pid=6 ) 
+
+[ 2017-05-31T12:21:53+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/6.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_p' at line 1
+ [ SQL语句 ] : SELECT bookshop_pro*,b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_pro.pid=b.cid  WHERE ( pid=6 ) 
+
+[ 2017-05-31T12:26:33+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT bookshop_pro.*,b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_pro.cid=b.cid  WHERE ( pid=listPro ) 
+
+[ 2017-05-31T12:27:34+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT bookshop_pro.*,b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_pro.cid=b.cid  WHERE ( pid=listPro ) 
+
+[ 2017-05-31T12:29:48+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT bookshop_pro.*,b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_pro.cid=b.cid  WHERE ( pid=listPro ) 
+
+[ 2017-05-31T12:34:56+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT bookshop_pro.*,b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_pro.cid=b.cid  WHERE ( pid=listPro ) 
+
+[ 2017-05-31T13:48:29+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT bookshop_pro.*,b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_pro.cid=b.cid  WHERE ( pid=listPro ) 
+
+[ 2017-05-31T13:49:34+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT bookshop_pro.*,b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_pro.cid=b.cid  WHERE ( pid=listPro ) 
+
+[ 2017-05-31T13:51:02+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/listPro.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT bookshop_pro.*,b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_pro.cid=b.cid  WHERE ( pid= ) 
+
+[ 2017-05-31T13:51:23+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/listPro.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT bookshop_pro.*,b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_pro.cid=b.cid  WHERE ( pid= ) 
+
+[ 2017-05-31T13:54:29+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/detailPro/pid/listPro.html
+ERR: 1054:Unknown column 'listPro' in 'where clause'
+ [ SQL语句 ] : SELECT bookshop_pro.*,b.cname as cname FROM `bookshop_pro` INNER JOIN bookshop_cate as b ON bookshop_pro.cid=b.cid  WHERE ( pid=listPro ) 
+
+[ 2017-05-31T15:07:09+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1364:Field 'pnum' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`cid`,`psn`,`pubtime`,`mprice`,`vprice`,`pdesc`,`image1`) VALUES (NULL,'人间词话','12','65465','2017-05-31 15:07:09','30','27','&lt;span style=&quot;color:#333333;background-color:#FFFFFF;&quot;&gt;《&amp;nbsp;人间词话 》这本书精心汇集了王国维《人间词话》现存于世的珍稀手稿，将王国维本人亲手删改后的64则原本及剔除掉的49则删稿完整呈现。并增加了“补遗·眉批、跋语”，精心收录了王国维先生的《人间词话》。尤其增加了详尽介绍诗词出处的两则附录，让读者轻松愉悦地读懂王国维的著作。&lt;/span&gt;','/thinkphp/Public/Upload/Pro/2017-05-31/592e6b9d7b0dd.jpg')
+
+[ 2017-05-31T15:08:55+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1364:Field 'pnum' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`cid`,`psn`,`pubtime`,`mprice`,`vprice`,`pdesc`,`image1`) VALUES (NULL,'人间词话','12','35465','2017-05-31 15:08:55','30','27','&lt;span style=&quot;color:#333333;background-color:#FFFFFF;&quot;&gt;《人间词话》这本书精心汇集了王国维《人间词话》现存于世的珍稀手稿，将王国维本人亲手删改后的64则原本及剔除掉的49则删稿完整呈现。并增加了“补遗·眉批、跋语”，精心收录了王国维先生的《人间词话》。尤其增加了详尽介绍诗词出处的两则附录，让读者轻松愉悦地读懂王国维的著作。&lt;/span&gt;','/thinkphp/Public/Upload/Pro/2017-05-31/592e6c07b05b6.jpg')
+
+[ 2017-05-31T15:52:47+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/edit.html
+ERR: 1048:Column 'cid' cannot be null
+ [ SQL语句 ] : UPDATE `bookshop_pro` SET `pid`='9',`pname`='百年孤独',`cid`=NULL,`psn`='5646',`pnum`='421',`pubtime`=NULL,`mprice`='35.00',`vprice`='33.00',`pdesc`='&lt;span style=&quot;color:#333333;background-color:#FFFFFF;&quot;&gt;《百年孤独》是魔幻现实主义文学的代表作，描写了布恩迪亚家族七代人的传奇故事，以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云 变幻的历史。作品融入神话传说、民间故事、宗教典故等神秘因素，巧妙地糅合了现实与虚幻，展现出一个瑰丽的想象世界，成为20世界重要的经典文学巨著之一。1982年加西亚•马尔克斯获得诺贝尔文学奖，奠定世界级文学大师的地位，很大程度上乃是凭借《百年孤独》的巨大影响。&lt;/span&gt;',`image1`='/thinkphp/Public' WHERE `pid` = 9
+
+[ 2017-05-31T15:54:07+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/edit.html
+ERR: 1048:Column 'pubtime' cannot be null
+ [ SQL语句 ] : UPDATE `bookshop_pro` SET `pid`='9',`pname`='百年孤独',`cid`='12',`psn`='5646',`pnum`='421',`pubtime`=NULL,`mprice`='35.00',`vprice`='33.00',`pdesc`='&lt;span style=&quot;color:#333333;background-color:#FFFFFF;&quot;&gt;《百年孤独》是魔幻现实主义文学的代表作，描写了布恩迪亚家族七代人的传奇故事，以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云 变幻的历史。作品融入神话传说、民间故事、宗教典故等神秘因素，巧妙地糅合了现实与虚幻，展现出一个瑰丽的想象世界，成为20世界重要的经典文学巨著之一。1982年加西亚•马尔克斯获得诺贝尔文学奖，奠定世界级文学大师的地位，很大程度上乃是凭借《百年孤独》的巨大影响。&lt;/span&gt;',`image1`='/thinkphp/Public' WHERE `pid` = 9
+
+[ 2017-05-31T15:54:56+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/edit.html
+ERR: 1292:Incorrect datetime value: '' for column 'pubtime' at row 1
+ [ SQL语句 ] : UPDATE `bookshop_pro` SET `pid`='9',`pname`='百年孤独',`cid`='12',`psn`='5646',`pnum`='421',`pubtime`='',`mprice`='35.00',`vprice`='33.00',`pdesc`='&lt;span style=&quot;color:#333333;background-color:#FFFFFF;&quot;&gt;《百年孤独》是魔幻现实主义文学的代表作，描写了布恩迪亚家族七代人的传奇故事，以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云 变幻的历史。作品融入神话传说、民间故事、宗教典故等神秘因素，巧妙地糅合了现实与虚幻，展现出一个瑰丽的想象世界，成为20世界重要的经典文学巨著之一。1982年加西亚•马尔克斯获得诺贝尔文学奖，奠定世界级文学大师的地位，很大程度上乃是凭借《百年孤独》的巨大影响。&lt;/span&gt;',`image1`='/thinkphp/Public' WHERE `pid` = 9
+
+[ 2017-05-31T15:57:14+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/edit.html
+ERR: 1292:Incorrect datetime value: '' for column 'pubtime' at row 1
+ [ SQL语句 ] : UPDATE `bookshop_pro` SET `pid`='9',`pname`='百年孤独',`cid`='12',`psn`='5646',`pnum`='421',`pubtime`='',`mprice`='35.00',`vprice`='33.00',`pdesc`='&lt;span style=&quot;color:#333333;background-color:#FFFFFF;&quot;&gt;《百年孤独》是魔幻现实主义文学的代表作，描写了布恩迪亚家族七代人的传奇故事，以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云 变幻的历史。作品融入神话传说、民间故事、宗教典故等神秘因素，巧妙地糅合了现实与虚幻，展现出一个瑰丽的想象世界，成为20世界重要的经典文学巨著之一。1982年加西亚•马尔克斯获得诺贝尔文学奖，奠定世界级文学大师的地位，很大程度上乃是凭借《百年孤独》的巨大影响。&lt;/span&gt;',`image1`='/thinkphp/Public' WHERE `pid` = 9
+
+[ 2017-05-31T16:54:29+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/edit.html
+ERR: 1048:Column 'pubtime' cannot be null
+ [ SQL语句 ] : UPDATE `bookshop_pro` SET `pid`='11',`pname`='人间词话',`cid`='12',`psn`='3456',`pnum`='110',`pubtime`=NULL,`mprice`='30.00',`vprice`='25.00',`pdesc`='&lt;span style=&quot;color:#333333;background-color:#FFFFFF;&quot;&gt;《人间词话》这本书精心汇集了王国维《人间词话》现存于世的珍稀手稿，将王国维本人亲手删改后的64则原本及剔除掉的49则删稿完整呈现。并增加了“补遗·眉批、跋语”，精心收录了王国维先生的《人间词话》。尤其增加了详尽介绍诗词出处的两则附录，让读者轻松愉悦地读懂王国维的著作。&lt;/span&gt;',`image1`='/thinkphp/Public' WHERE `pid` = 11
+

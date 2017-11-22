@@ -1,0 +1,58 @@
+[ 2017-05-30T11:25:42+08:00 ] 127.0.0.1 /thinkphp/admin.php/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-05-30T11:25:44+08:00 ] 127.0.0.1 /thinkphp/admin.php/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-05-30T15:51:47+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro]/add.html
+ERR: 无法加载控制器:Pro]
+
+[ 2017-05-30T15:53:19+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1364:Field 'psn' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`pubtime`,`mprice`,`vprice`) VALUES (NULL,'我们仨','0','25','20')
+
+[ 2017-05-30T15:57:18+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1364:Field 'psn' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`pubtime`,`mprice`,`vprice`) VALUES (NULL,'我们仨','0','25','20')
+
+[ 2017-05-30T16:00:23+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1364:Field 'cid' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`psn`,`pubtime`,`mprice`,`vprice`) VALUES (NULL,'我们仨','123456','1496131223','25','20')
+
+[ 2017-05-30T16:06:31+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/addPro.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_cate` WHERE ( cid= ) 
+
+[ 2017-05-30T16:17:53+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1364:Field 'cid' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`psn`,`pubtime`,`mprice`,`vprice`) VALUES (NULL,'我们仨','123456','1496132273','25','20')
+
+[ 2017-05-30T16:22:12+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1366:Incorrect decimal value: '' for column 'mprice' at row 1
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`psn`,`pubtime`,`mprice`,`vprice`) VALUES (NULL,'','','1496132532','','')
+
+[ 2017-05-30T16:22:39+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1366:Incorrect decimal value: '' for column 'mprice' at row 1
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`psn`,`pubtime`,`mprice`,`vprice`) VALUES (NULL,'','','1496132559','','')
+
+[ 2017-05-30T16:24:53+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1364:Field 'cid' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`psn`,`pubtime`,`mprice`,`vprice`) VALUES (NULL,'我们仨','123456','1496132693','25','20')
+
+[ 2017-05-30T16:26:42+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1364:Field 'imagepath' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`cid`,`psn`,`pubtime`,`mprice`,`vprice`) VALUES (NULL,'我们仨','7','123456','1496132802','25','25')
+
+[ 2017-05-30T20:15:31+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1292:Incorrect datetime value: '1496146531' for column 'pubtime' at row 1
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`cid`,`psn`,`pubtime`,`mprice`,`vprice`,`pdesc`,`imagepath`) VALUES (NULL,'人性的弱点','10','12546','1496146531','34','30','&lt;span style=&quot;color:#333333;background-color:#FFFFFF;&quot;&gt;这本书没有解决任何深奥的宇宙问题，但他却实实在在地影响和改变了无数普通人的命运，让他们获得了他人的尊重。&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&quot;color:#333333;background-color:#FFFFFF;&quot;&gt;虽然它已经出版了将近一个世纪，但是这些饱含理性光辉的生命智慧，仍然可以帮你走出困境、解决问题。&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&quot;color:#333333;background-color:#FFFFFF;&quot;&gt;对于任何人来说，这份来自于人类思想深处的礼物，都可以滋润你的修养，让你的阅历丰盈。&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;','0')
+
+[ 2017-05-30T21:42:51+08:00 ] 127.0.0.1 /thinkphp/admin.php/Pro/add.html
+ERR: 1406:Data too long for column 'image1' at row 1
+ [ SQL语句 ] : INSERT INTO `bookshop_pro` (`pid`,`pname`,`cid`,`psn`,`pubtime`,`mprice`,`vprice`,`pdesc`,`image1`) VALUES (NULL,'人类简史 从动物到上帝','7','4025','2017-05-30 21:42:51','60','55','&lt;span style=&quot;color:#333333;background-color:#FFFFFF;&quot;&gt;《人类简史 从动物到上帝》是以色列新锐历史学家的一部重磅作品。从十万年前有生命迹象开始到21世纪资本、科技交织的人类发展史。十万年前，地球上至少有六个人种，为何今天却只剩下了我们自己？我们曾经只是非洲角落一个毫不起眼的族群，对地球上生态的影响力和萤火虫、猩猩或者水母相差无几。为何我们能登上生物链的顶端，最终成为地球的主宰？&lt;/span&gt;','/test/Public/Upload/Pro/2017-05-30/592d76db40b4d.jpg')
+
+[ 2017-05-30T23:24:59+08:00 ] 127.0.0.1 /thinkphp/admin.php/Order/listOrder.html
+ERR: 无法加载控制器:Order
+

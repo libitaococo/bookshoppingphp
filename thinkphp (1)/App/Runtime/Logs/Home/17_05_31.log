@@ -1,0 +1,15 @@
+[ 2017-05-31T20:13:06+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/order_list.htm
+ERR: 非法操作:order_list.htm
+
+[ 2017-05-31T20:13:16+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/cart_list.htm
+ERR: 非法操作:cart_list.htm
+
+[ 2017-05-31T20:13:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/home.htm
+ERR: 非法操作:home.htm
+
+[ 2017-05-31T22:59:58+08:00 ] 127.0.0.1 /thinkphp/index.php
+ERR: 模板不存在:./App/Home/View/Index/index.html
+
+[ 2017-05-31T23:05:45+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/home.html
+ERR: 非法操作:home
+

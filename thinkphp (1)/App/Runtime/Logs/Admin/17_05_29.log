@@ -1,0 +1,154 @@
+[ 2017-05-29T10:16:05+08:00 ] 127.0.0.1 /thinkphp/admin.php/Index/addAdmin.html
+ERR: 非法操作:addAdmin
+
+[ 2017-05-29T10:26:26+08:00 ] 127.0.0.1 /thinkphp/admin.php/Index/addAdmin.html
+ERR: 非法操作:addAdmin
+
+[ 2017-05-29T10:27:00+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/Index/index.html
+ERR: 非法操作:Index
+
+[ 2017-05-29T10:27:09+08:00 ] 127.0.0.1 /thinkphp/admin.php/main.html
+ERR: 无法加载控制器:Main
+
+[ 2017-05-29T10:27:45+08:00 ] 127.0.0.1 /thinkphp/admin.php/Index/addAdmin.html
+ERR: 非法操作:addAdmin
+
+[ 2017-05-29T11:04:50+08:00 ] 127.0.0.1 /thinkphp/admin.php/main.html
+ERR: 无法加载控制器:Main
+
+[ 2017-05-29T11:04:54+08:00 ] 127.0.0.1 /thinkphp/admin.php/Login/logout.html
+ERR: 无法加载控制器:Login
+
+[ 2017-05-29T11:05:15+08:00 ] 127.0.0.1 /thinkphp/admin.php/main.html
+ERR: 无法加载控制器:Main
+
+[ 2017-05-29T11:05:18+08:00 ] 127.0.0.1 /thinkphp/admin.php/Login/logout.html
+ERR: 无法加载控制器:Login
+
+[ 2017-05-29T11:05:57+08:00 ] 127.0.0.1 /thinkphp/admin.php/main.html
+ERR: 无法加载控制器:Main
+
+[ 2017-05-29T11:06:00+08:00 ] 127.0.0.1 /thinkphp/admin.php/Login/logout.html
+ERR: 无法加载控制器:Login
+
+[ 2017-05-29T11:06:09+08:00 ] 127.0.0.1 /thinkphp/admin.php/Login/logout.html
+ERR: 无法加载控制器:Login
+
+[ 2017-05-29T11:06:14+08:00 ] 127.0.0.1 /thinkphp/admin.php/Login/logout.html
+ERR: 无法加载控制器:Login
+
+[ 2017-05-29T11:06:45+08:00 ] 127.0.0.1 /thinkphp/admin.php/Index/addAdmin.html
+ERR: 非法操作:addAdmin
+
+[ 2017-05-29T11:08:53+08:00 ] 127.0.0.1 /thinkphp/admin.php/Index/listAdmin.html
+ERR: 非法操作:listAdmin
+
+[ 2017-05-29T11:08:54+08:00 ] 127.0.0.1 /thinkphp/admin.php/Index/addAdmin.html
+ERR: 非法操作:addAdmin
+
+[ 2017-05-29T11:08:55+08:00 ] 127.0.0.1 /thinkphp/admin.php/Index/addAdmin.html
+ERR: 非法操作:addAdmin
+
+[ 2017-05-29T11:33:12+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/add.html
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `bookshop_admin` (`id`,`adminname`,`adminpassword`) VALUES (NULL,'coco','coco')
+
+[ 2017-05-29T17:24:35+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/:U('Admin/editAdmin')?id=1
+ERR: 非法操作::U('Admin
+
+[ 2017-05-29T17:27:38+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/U('Admin/editAdmin')?id=1
+ERR: 非法操作:U('Admin
+
+[ 2017-05-29T17:45:33+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/listUser.html
+ERR: 非法操作:listUser
+
+[ 2017-05-29T17:46:21+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/listUser.html
+ERR: 非法操作:listUser
+
+[ 2017-05-29T17:47:23+08:00 ] 127.0.0.1 /thinkphp/admin.php/User/listUser.html
+ERR: 模板不存在:./App/Admin/View/User/listUser.html
+
+[ 2017-05-29T17:48:09+08:00 ] 127.0.0.1 /thinkphp/admin.php/User/%7BU('User/editUser')?id=}
+ERR: 非法操作:{U('User
+
+[ 2017-05-29T18:03:45+08:00 ] 127.0.0.1 /thinkphp/admin.php/User/%7BU('User/delUser')?id=}
+ERR: 非法操作:{U('User
+
+[ 2017-05-29T18:15:11+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/%7BU('Admin/editAdmin')?id=1}
+ERR: 非法操作:{U('Admin
+
+[ 2017-05-29T18:17:07+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/%7BU('Admin/editAdmin')?id=1}
+ERR: 非法操作:{U('Admin
+
+[ 2017-05-29T18:28:05+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin/id/1.html
+ERR: XML标签语法错误 : name="select" item="s"
+<form action="{:U('Admin/edit')}?id={s.id}" method="post"
+
+[ 2017-05-29T18:38:58+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/edit.html?id={s.id}
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} )' at line 1
+ [ SQL语句 ] : UPDATE `bookshop_admin` SET `adminname`='vivi',`adminpassword`='admin' WHERE ( id={$id} )
+
+[ 2017-05-29T20:58:16+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/edit.html?id={s.id}
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} )' at line 1
+ [ SQL语句 ] : UPDATE `bookshop_admin` SET `adminname`='xixi',`adminpassword`='admin' WHERE ( id={$id} )
+
+[ 2017-05-29T21:00:11+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T21:02:18+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T21:04:10+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T21:07:50+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T21:18:32+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T21:30:25+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/edit.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : UPDATE `bookshop_admin` SET `adminname`='vivi',`adminpassword`='tom' WHERE ( id= )
+
+[ 2017-05-29T21:37:12+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T21:40:38+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T21:44:49+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T21:45:18+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T21:54:20+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T22:00:50+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T22:01:38+08:00 ] 127.0.0.1 /thinkphp/admin.php/Admin/editAdmin.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `bookshop_admin` WHERE ( id= ) 
+
+[ 2017-05-29T22:09:15+08:00 ] 127.0.0.1 /thinkphp/admin.php/User/delUser.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : DELETE FROM `bookshop_user` WHERE ( id= )
+
+[ 2017-05-29T22:12:03+08:00 ] 127.0.0.1 /thinkphp/admin.php/User/delUser.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : DELETE FROM `bookshop_user` WHERE ( uid= )
+

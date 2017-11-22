@@ -1,0 +1,73 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>-.-</title>
+<link rel="stylesheet" href="__PUBLIC__/Admin/styles/backstage.css">
+<link rel="stylesheet" href="__PUBLIC__/Admin/scripts/jquery-ui/css/ui-lightness/jquery-ui-1.10.4.custom.css" />
+<script src="__PUBLIC__/Admin/scripts/jquery-ui/js/jquery-1.10.2.js"></script>
+<script src="__PUBLIC__/Admin/scripts/jquery-ui/js/jquery-ui-1.10.4.custom.js"></script>
+<script src="__PUBLIC__/Admin/scripts/jquery-ui/js/jquery-ui-1.10.4.custom.min.js"></script>
+</head>
+
+<body>
+<div id="showDetail"  style="display:none;">
+
+</div>
+<div class="details">
+                    <div class="details_operation clearfix">
+                        <div class="bui_select">
+                            <input type="button" value="返&nbsp;&nbsp;回" class="add" onclick="rePro()">
+                            </div>
+                             <div id="showDetail"  ">
+                                                   <!--表格-->
+                                                   <foreach name="select" item="s">
+					                        	<table class="table" cellspacing="0" cellpadding="0">
+					                        		<tr>
+					                        			<td width="20%" align="right">商品名称</td>
+					                        			<td>{$s.pname}</td>
+					                        		</tr>
+					                        		<tr>
+					                        			<td width="20%"  align="right">商品类别</td>
+					                        			<td>{$s.cname}</td>	
+					                        		</tr>
+					                        		<tr>
+					                        			<td width="20%"  align="right">商品货号</td>
+					                        			<td>{$s.psn}</td>
+					                        		</tr>
+					                        		<tr>
+					                        			<td width="20%"  align="right">商品数量</td>
+					                        			<td>{$s.pnum}</td>
+					                        		</tr>
+					                        		<tr>
+					                        			<td  width="20%"  align="right">商品价格</td>
+					                        			<td>{$s.mprice}</td>
+					                        		</tr>
+					                        		<tr>
+					                        			<td  width="20%"  align="right">会员价格</td>
+					                        			<td>{$s.vprice}</td>
+					                        		</tr>
+					                        		<tr>
+					                        			<td width="20%"  align="right">商品图片</td>
+					                        			<td>
+					                        			<img width="200" height="250" src="{$s['image1']}" /> 
+					                        			</td>
+					                        		</tr>
+					                        		<tr>
+					                        		<td  width="20%"   height=" 150" align="right">商品描述</td>
+					                        		<td>{$s.pdesc}</td>
+					                        		</tr>
+					                        	</table>
+					                        	</foreach>
+					                        	</div>
+					                        </div>
+                </div>
+<script type="text/javascript">
+	function rePro(){
+		window.location='{:U("Pro/listpro")}';
+	}
+
+</script>
+</body>
+</html>

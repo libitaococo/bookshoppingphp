@@ -1,0 +1,399 @@
+[ 2017-05-28T13:52:27+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/register.html
+ERR: 非法操作:register
+
+[ 2017-05-28T13:53:19+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/register.html
+ERR: 模板不存在:./App/Home/View/Index/register.html
+
+[ 2017-05-28T13:53:20+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/register.html
+ERR: 模板不存在:./App/Home/View/Index/register.html
+
+[ 2017-05-28T13:53:28+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/register.html
+ERR: 模板不存在:./App/Home/View/Index/register.html
+
+[ 2017-05-28T13:53:34+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/register.html
+ERR: 模板不存在:./App/Home/View/Index/register.html
+
+[ 2017-05-28T13:54:41+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T13:54:41+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T13:54:41+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/top_nologin.htm
+ERR: 非法操作:top_nologin.htm
+
+[ 2017-05-28T13:54:41+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/bottom.htm
+ERR: 非法操作:bottom.htm
+
+[ 2017-05-28T13:54:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T13:54:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T13:54:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/top_nologin.htm
+ERR: 非法操作:top_nologin.htm
+
+[ 2017-05-28T13:54:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/bottom.htm
+ERR: 非法操作:bottom.htm
+
+[ 2017-05-28T13:57:18+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/register.html
+ERR: 模板不存在:./App/Home/View/Index/register.twd
+
+[ 2017-05-28T13:57:39+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T13:57:39+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T13:57:39+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/top_nologin.htm
+ERR: 非法操作:top_nologin.htm
+
+[ 2017-05-28T13:57:39+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/bottom.htm
+ERR: 非法操作:bottom.htm
+
+[ 2017-05-28T13:58:57+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T13:58:57+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T13:58:57+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/top_nologin.htm
+ERR: 非法操作:top_nologin.htm
+
+[ 2017-05-28T13:58:57+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/bottom.htm
+ERR: 非法操作:bottom.htm
+
+[ 2017-05-28T13:59:25+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T13:59:25+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T13:59:25+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/top_nologin.htm
+ERR: 非法操作:top_nologin.htm
+
+[ 2017-05-28T13:59:25+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/bottom.htm
+ERR: 非法操作:bottom.htm
+
+[ 2017-05-28T14:02:19+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:02:19+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:02:20+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/top_nologin.htm
+ERR: 非法操作:top_nologin.htm
+
+[ 2017-05-28T14:02:20+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/bottom.htm
+ERR: 非法操作:bottom.htm
+
+[ 2017-05-28T14:03:39+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:03:39+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:03:40+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/top_nologin.htm
+ERR: 非法操作:top_nologin.htm
+
+[ 2017-05-28T14:03:40+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/bottom.htm
+ERR: 非法操作:bottom.htm
+
+[ 2017-05-28T14:04:17+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:04:17+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:04:17+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/top_nologin.htm
+ERR: 非法操作:top_nologin.htm
+
+[ 2017-05-28T14:04:17+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/bottom.htm
+ERR: 非法操作:bottom.htm
+
+[ 2017-05-28T14:05:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:05:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:05:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/top_nologin.htm
+ERR: 非法操作:top_nologin.htm
+
+[ 2017-05-28T14:05:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/bottom.htm
+ERR: 非法操作:bottom.htm
+
+[ 2017-05-28T14:24:04+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:24:04+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:24:04+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:24:05+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:24:09+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:24:09+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:24:09+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:24:09+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:24:31+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:24:31+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:24:31+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:24:31+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:26:55+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:26:55+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:26:55+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:26:58+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:26:58+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:26:58+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:29:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:29:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:29:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:29:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:29:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:29:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:29:25+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:35:41+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/checkform.js
+ERR: 无法加载控制器:Js
+
+[ 2017-05-28T14:35:41+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:35:41+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:54:30+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:54:30+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:54:35+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T14:54:35+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:00:16+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:00:16+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:00:18+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:00:18+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:02:34+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:02:37+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/home.htm
+ERR: 非法操作:home.htm
+
+[ 2017-05-28T15:02:41+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:02:42+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:02:43+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:06:44+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:06:44+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:07:00+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:07:05+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:07:05+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:07:05+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:10:58+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:10:58+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/style.css
+ERR: 非法操作:style.css
+
+[ 2017-05-28T15:17:23+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/home.htm
+ERR: 非法操作:home.htm
+
+[ 2017-05-28T15:17:23+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/register.html
+ERR: 1146:Table 'bookshop.bookshop_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bookshop_users`
+
+[ 2017-05-28T15:19:43+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/home.htm
+ERR: 非法操作:home.htm
+
+[ 2017-05-28T15:19:43+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/register.html
+ERR: 1364:Field 'userid' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `bookshop_user` (`email`,`name`,`password`) VALUES ('222356899875@qq.com','dd','e10adc3949ba59abbe56e057f20f883e')
+
+[ 2017-05-28T15:44:28+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/register.html
+ERR: 1146:Table 'bookshop.bookshop_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bookshop_users`
+
+[ 2017-05-28T15:45:33+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/home.htm
+ERR: 非法操作:home.htm
+
+[ 2017-05-28T15:45:33+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/register.html
+ERR: 1364:Field 'user' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `bookshop_user` (`email`,`name`,`password`) VALUES ('222356899875@qq.com','coco','e10adc3949ba59abbe56e057f20f883e')
+
+[ 2017-05-28T15:52:29+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/home.htm
+ERR: 非法操作:home.htm
+
+[ 2017-05-28T15:52:29+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/register.html
+ERR: Think\Model:success方法不存在！
+
+[ 2017-05-28T15:55:03+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/register.html
+ERR: 模板不存在:./App/Home/View/Login/register.html
+
+[ 2017-05-28T15:55:09+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/register.html
+ERR: 模板不存在:./App/Home/View/Login/register.html
+
+[ 2017-05-28T16:10:18+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1146:Table 'bookshop.bookshop_login' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bookshop_login`
+
+[ 2017-05-28T16:12:35+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 模板不存在:./App/Home/View/Login/login.html
+
+[ 2017-05-28T16:16:14+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/home.htm
+ERR: 非法操作:home.htm
+
+[ 2017-05-28T16:19:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 模板不存在:./App/Home/View/Login/login.html
+
+[ 2017-05-28T16:23:55+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/login.htm
+ERR: 非法操作:login.htm
+
+[ 2017-05-28T16:38:16+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1146:Table 'bookshop.bookshop_login' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bookshop_login`
+
+[ 2017-05-28T16:41:13+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1146:Table 'bookshop.bookshop_login' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bookshop_login`
+
+[ 2017-05-28T16:47:29+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='' and password='789456'' at line 1
+ [ SQL语句 ] : select *from bookshop_user whereuser='' and password='789456'
+
+[ 2017-05-28T16:51:44+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/home.htm
+ERR: 非法操作:home.htm
+
+[ 2017-05-28T17:02:46+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/home.htm
+ERR: 非法操作:home.htm
+
+[ 2017-05-28T17:15:21+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user= and password=123456
+
+[ 2017-05-28T17:16:29+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user= and password=123456
+
+[ 2017-05-28T17:16:51+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user= and password=123456
+
+[ 2017-05-28T17:17:55+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user= and password=123456
+
+[ 2017-05-28T17:20:38+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user= and password=123456
+
+[ 2017-05-28T17:26:20+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user= and password=123456
+
+[ 2017-05-28T17:27:10+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user= and password=123456
+
+[ 2017-05-28T17:28:32+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user=and password=123456
+
+[ 2017-05-28T17:30:17+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user=and password=123456
+
+[ 2017-05-28T17:31:47+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user=and password=123456
+
+[ 2017-05-28T17:32:46+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user=and password=123456
+
+[ 2017-05-28T17:35:49+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'password=123456' at line 1
+ [ SQL语句 ] : select *from bookshop_user where user=lilyand password=123456
+
+[ 2017-05-28T17:36:15+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Login/login.html
+ERR: 1054:Unknown column 'lily' in 'where clause'
+ [ SQL语句 ] : select *from bookshop_user where user=lily and password=123456
+
+[ 2017-05-28T17:52:06+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/Index/home.htm
+ERR: 非法操作:home.htm
+

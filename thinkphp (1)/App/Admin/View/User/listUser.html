@@ -1,0 +1,42 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>-.-</title>
+<link rel="stylesheet" href="__PUBLIC__/Admin/styles/backstage.css">
+<link rel="stylesheet" href="__PUBLIC__/Admin/styles/page.css">
+</head>
+
+<body>
+<div class="details">
+
+                    <!--表格-->
+                    <table class="table" cellspacing="0" cellpadding="0">
+                        <thead>
+                            <tr>
+                                <th width="15%">编号</th>
+                                <th width="20%">用户名称</th>
+                                <th width="20%">用户邮箱</th>
+                                <th width="20%">用户密码</th>
+                                <th>操作</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                       <foreach name='select' item='s'>
+                            <tr>
+                                <!--这里的id和for里面的c1 需要循环出来-->
+                                <td><input type="checkbox" id="c1" class="check"><label for="c1" class="label">{$s.uid}</label></td>
+                                <td>{$s.user}</td>
+                                <td>{$s.email}</td>
+                                <td>{$s.password}</td>
+                                <td align="center"> 
+                                <a href="{:U('User/delUser',array('uid'=>$s['uid']))}" onClick="if(window.confirm('确定删除？'));else return false">删除</a></td>
+                          </foreach>
+                        </tbody>
+                    </table>
+                </div>
+                   <div class="yahoo2">{$page}
+			</div>
+</body>
+</html>
